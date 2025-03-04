@@ -21,7 +21,8 @@ export default function Hero() {
             Bug Bash IDE
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Experience the best online IDE with collaborative features, real-time code execution,multiple language features, private coding sessions between friends  and much more.
+            Bug Bash technical event would typically involve students from computer science or related fields coming together to identify and fix bugs in the given code. During the event, participant would work collaboratively to review code, run tests, and debug issues to improve the quality of the code. This hands-on experience allows students to apply their knowledge in a practical setting, gain valuable problem-solving skills, and learn about software development best practices. Overall, Bug Bashes provide students with an opportunity to sharpen their technical skills, work in teams, and contribute to real-world projects.
+
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <a
