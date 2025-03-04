@@ -6,8 +6,8 @@ import image from '../../public/images.png';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Fusion IDE",
-  description: "A Collaaborative Coding Platform"    
+  title: "Bug Bash IDE",
+  description: "IDE for Bug Bash"    
 };
 
 export default function RootLayout({
